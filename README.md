@@ -6,6 +6,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 Material UI template integrated for app pages.
 
+- User Register, Login
+- User Can Create, Read, Update & Delete Jobs
+
 Tech Stack :-
 - Next js
 - Material UI React
