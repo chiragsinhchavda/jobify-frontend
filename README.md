@@ -1,13 +1,12 @@
 ## Jobify - [ Status: IN PROCESS ]
 
 This is a Job tracking application.
-
+- User Register, Login
+- User Can Create, Read, Update & Delete Jobs
+  
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 Material UI template integrated for app pages.
-
-- User Register, Login
-- User Can Create, Read, Update & Delete Jobs
 
 Tech Stack :-
 - Next js
