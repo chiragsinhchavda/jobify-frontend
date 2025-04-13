@@ -1,6 +1,6 @@
-## Jobify - [Status: IN PROCESS]
+## Jobify - [ Status: IN PROCESS ]
 
-This is a Job tracking full stack application.
+This is a Job tracking application.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -10,11 +10,7 @@ Tech Stack :-
 - Next js
 - Material UI React
 - Next font
-- Node js
-- Express js
-- MongoDB
 - Vercel - frontend
-- Render - backend
 
 ## Getting Started
 
